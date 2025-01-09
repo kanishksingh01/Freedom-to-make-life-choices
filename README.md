@@ -85,4 +85,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Tableau Dashboard
 
-Explore the dashboard on [Tableau Public]([https://public.tableau.com/](https://public.tableau.com/app/profile/kanishksingh/viz/FreedomtoMakeLifeChoices_17324034319150/Dashboard1)).
+Explore the dashboard on [Tableau Public](https://public.tableau.com/app/profile/kanishksingh/viz/FreedomtoMakeLifeChoices_17324034319150/Dashboard1).
